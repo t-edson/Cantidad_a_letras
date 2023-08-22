@@ -1,0 +1,24 @@
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\bin\Debug\Número a Letras.exe.config
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\bin\Debug\Número a Letras.exe
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\bin\Debug\Número a Letras.pdb
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\bin\Debug\Número a Letras.xml
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.vbproj.AssemblyReference.cache
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número_a_Letras.Form1.resources
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número_a_Letras.Resources.resources
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.vbproj.GenerateResource.cache
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.vbproj.CoreCompileInputs.cache
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.exe
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.xml
+D:\Proyectos_Software\VB.net\Número a Letras\Número a Letras\Número a Letras\obj\Debug\Número a Letras.pdb
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\bin\Debug\Número a Letras.exe.config
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\bin\Debug\Número a Letras.exe
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\bin\Debug\Número a Letras.pdb
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\bin\Debug\Número a Letras.xml
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.vbproj.AssemblyReference.cache
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número_a_Letras.Form1.resources
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número_a_Letras.Resources.resources
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.vbproj.GenerateResource.cache
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.vbproj.CoreCompileInputs.cache
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.exe
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.xml
+D:\Proyectos_Software\VB.net\Cantidad a Letras\Cantidad a Letras\obj\Debug\Número a Letras.pdb
